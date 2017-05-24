@@ -1,0 +1,57 @@
+div#idflash {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-left: 40px;
+	padding-right: 40px;
+	
+}
+
+body {
+	text-align: center;
+	background-attachment: fixed;
+	border: 500px;
+	margin: 40px 20px;
+	background-image: url(images/cover.jpg);
+
+}
+
+h1 {
+	font-style: italic;
+	font-family: Helvetica;
+	font-weight: strong;
+	color: red;	
+	border: double 25px;
+	border-color: silver;
+
+}
+
+p {
+	color: yellow
+}
+
+
+
+ol {
+	color: yellow;
+	background-image: url(images/hydrangeas.jpg);
+}
+
+a {
+	color: orange;
+	text-decoration: none;
+}
+
+a:hover{
+	color: red;
+	size: 60px;
+	font-family: helvetica;
+	font-weight: 60px;
+	font-size: 60px;
+}
+
+a:active {
+	font-style: italic;
+	font-size: 60px;
+	color: lime;
+
+}
